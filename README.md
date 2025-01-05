@@ -9,16 +9,6 @@ Feature extraction and selection are important techniques in the classification 
 - Python 3.7+
 - TensorFlow
 
-
-## Installation
-```bash
-# Clone the repository
-git clone https://github.com/MohisnFurkh/Genetic-Algorithm-based-Feature-Selection.git
-
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
 ## Publication
 This work is associated with our paper:
 "Deep learning and genetic algorithm-based ensemble model for feature selection and classification of breast ultrasound images"
@@ -38,4 +28,12 @@ If you use this code in your research, please cite:
    volume = {146},
    year = {2024},
 }
+```
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/MohisnFurkh/Genetic-Algorithm-based-Feature-Selection.git
 
+# Install dependencies
+pip install -r requirements.txt
+```
