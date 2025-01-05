@@ -12,4 +12,30 @@ Feature extraction and selection are important techniques in the classification 
 
 ## Installation
 ```bash
+# Clone the repository
+git clone https://github.com/MohisnFurkh/Genetic-Algorithm-based-Feature-Selection.git
+
+```bash
+# Install dependencies
 pip install -r requirements.txt
+
+## Publication
+This work is associated with our paper:
+"Deep learning and genetic algorithm-based ensemble model for feature selection and classification of breast ultrasound images"
+Published in Image and Vision Computing, 2024
+## Citation
+If you use this code in your research, please cite:
+```bash
+@article{Dar2024,
+   author = {Mohsin Furkh Dar and Avatharam Ganivada},
+   doi = {10.1016/J.IMAVIS.2024.105018},
+   issn = {0262-8856},
+   journal = {Image and Vision Computing},
+   month = {6},
+   pages = {105018},
+   publisher = {Elsevier},
+   title = {Deep learning and genetic algorithm-based ensemble model for feature selection and classification of breast ultrasound images},
+   volume = {146},
+   year = {2024},
+}
+
